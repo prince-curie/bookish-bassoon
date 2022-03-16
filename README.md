@@ -18,15 +18,15 @@
 ### MetaData Structure
 ```JSON
 {
-    name: "Cos",
-    image: "https://ipfs.io/ipfs/Qmejef8gDj9uz6iLrdJP3dLXvNWuQY1VoxyAV39Ny2xJyQ",
-    description: "A group of NFT's built for fun"
+    "name": "Cos",
+    "image": "https://ipfs.io/ipfs/Qmejef8gDj9uz6iLrdJP3dLXvNWuQY1VoxyAV39Ny2xJyQ",
+    "description": "A group of NFT's built for fun"
 }
 
 {
-    name: "Cos",
-    image: "https://ipfs.io/ipfs/QmakNZiY5sfEeHnd9ksb6si1RUNEaNSjjNmZRcSNWJ9bET",
-    description: "A group of NFT's built for fun"
+    "name": "Cos",
+    "image": "https://ipfs.io/ipfs/QmakNZiY5sfEeHnd9ksb6si1RUNEaNSjjNmZRcSNWJ9bET",
+    "description": "A group of NFT's built for fun"
 }
 ```
 
